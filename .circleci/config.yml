@@ -58,3 +58,4 @@ workflows:
               only:
                 - main
                 - dev
+                - ios_deploy
