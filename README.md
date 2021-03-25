@@ -1,6 +1,6 @@
 # Symbol wallet (nem-catapult-wallet)
 
-Official Android and iOS applications for NEM2(a.k.a Catapult).
+Official Android and iOS Symbol Mobile Wallet.
 
 [![CircleCI](https://circleci.com/gh/hatioin/nem-catapult-wallet.svg?style=svg&circle-token=8a16be5d725e06b1380904c8024e6622b6193e86)](https://circleci.com/gh/hatioin/nem-catapult-wallet)
 
